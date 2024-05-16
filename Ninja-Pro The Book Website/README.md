@@ -1,3 +1,3 @@
 !!!
-You need to change the path of css or js file provided.
+You need to change the path of images, css or js file provided.
 !!!
